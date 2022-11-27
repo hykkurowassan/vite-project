@@ -6,5 +6,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-# -vite-project
-https://vite-project-43c71.web.app/login
+Hosting URL: https://vite-project-43c71.web.app
